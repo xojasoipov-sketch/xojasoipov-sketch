@@ -88,10 +88,14 @@ AI meet: SaaS platforms, CRM systems, Telegram bots and AI-integrated services.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xojasoipov-sketch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D383&icon_color=39D383&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xojasoipov-sketch&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D383&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xojasoipov-sketch&theme=github_dark" alt="GitHub stats" />
 
-<br/><br/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xojasoipov-sketch&theme=github_dark" alt="Top languages by repository" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xojasoipov-sketch&theme=github_dark" alt="Top languages by commit" />
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xojasoipov-sketch&theme=github_dark&utcOffset=5" alt="Productive time" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=xojasoipov-sketch&hide_border=true&background=0D1117&stroke=30363D&ring=39D383&fire=39D383&currStreakLabel=39D383&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="Contribution streak" />
 
@@ -108,10 +112,6 @@ AI meet: SaaS platforms, CRM systems, Telegram bots and AI-integrated services.
 <br/>
 
 <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=xojasoipov-sketch&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
