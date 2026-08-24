@@ -75,8 +75,8 @@ AI meet: SaaS platforms, CRM systems, Telegram bots and AI-integrated services.
 | **ZET** | AI operating system — one interface orchestrating multiple AI providers | Next.js · Python · LLM APIs |
 | **SADIPRIME** | Multi-tenant AI SaaS for education & business management | React · FastAPI · PostgreSQL |
 | **PARI AI** | AI assistant delivered through Telegram | Python · Telegram API · LLM |
-| [**DLI SHOP**](https://github.com/xojasoipov-sketch/Dlishop-Tizim) | E-commerce platform with admin dashboard | React · Node.js · MongoDB |
-| [**BUSINESS HUB**](https://github.com/xojasoipov-sketch/Biznes-tizim) | Business management bot with an admin panel | Python · Telegram API |
+| **DLI SHOP** | E-commerce platform with admin dashboard | React · Node.js · MongoDB |
+| **BUSINESS HUB** | Business management bot with an admin panel | Python · Telegram API |
 
 <div align="center">
   <a href="https://xojasoipov-sketch.github.io/Portfolio/">→ See full case studies on my portfolio</a>
